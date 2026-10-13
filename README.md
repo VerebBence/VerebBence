@@ -41,14 +41,5 @@ Functional programming with Haskell
 Software development and AI fundamentals
 
 
-📂 Featured Projects
-
-DNS Adblocker — A personal project exploring domain blocking and file handling in C.
-
-LeetCode Solutions — My solutions to algorithmic problems as I learn and improve.
 
 
-I'm always learning, experimenting, and looking for ways to become a better developer.
-
-
-Learning by building, improving one step at a time.
