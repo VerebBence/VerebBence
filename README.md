@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi, I'm a Developer in Progress 👋
 
-<!--
-**VerebBence/VerebBence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer interested in programming, problem-solving, and building useful software.
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning C and strengthening my programming fundamentals
+
+Practicing algorithms and data structures through LeetCode
+
+Developing personal projects to apply what I learn
+
+Exploring software development and AI
+
+🛠️ Languages & Tools
+
+C — Learning and building personal projects
+
+Python — Previous experience through advanced-level high school programming studies
+
+Haskell — Currently learning functional programming at university
+
+Tools: Git, GitHub, Visual Studio Code
+
+📌 Current Focus
+
+Building a strong foundation in computer science, improving my problem-solving skills, and turning ideas into working projects.
+
+📚 Currently Learning
+
+Programming fundamentals and problem-solving
+
+Algorithms and data structures through LeetCode
+
+Functional programming with Haskell
+
+Software development and AI fundamentals
+
+📂 Featured Projects
+
+DNS Adblocker — A personal project exploring domain blocking and file handling in C.
+
+LeetCode Solutions — My solutions to algorithmic problems as I learn and improve.
+
+I'm always learning, experimenting, and looking for ways to become a better developer.
+
+Learning by building, improving one step at a time.
