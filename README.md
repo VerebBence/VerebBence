@@ -2,6 +2,7 @@ Hi, I'm a Developer in Progress 👋
 
 I'm an aspiring software developer interested in programming, problem-solving, and building useful software.
 
+
 🚀 What I'm Working On
 
 Learning C and strengthening my programming fundamentals
@@ -11,6 +12,7 @@ Practicing algorithms and data structures through LeetCode
 Developing personal projects to apply what I learn
 
 Exploring software development and AI
+
 
 🛠️ Languages & Tools
 
@@ -22,9 +24,11 @@ Haskell — Currently learning functional programming at university
 
 Tools: Git, GitHub, Visual Studio Code
 
+
 📌 Current Focus
 
 Building a strong foundation in computer science, improving my problem-solving skills, and turning ideas into working projects.
+
 
 📚 Currently Learning
 
@@ -36,12 +40,15 @@ Functional programming with Haskell
 
 Software development and AI fundamentals
 
+
 📂 Featured Projects
 
 DNS Adblocker — A personal project exploring domain blocking and file handling in C.
 
 LeetCode Solutions — My solutions to algorithmic problems as I learn and improve.
 
+
 I'm always learning, experimenting, and looking for ways to become a better developer.
+
 
 Learning by building, improving one step at a time.
